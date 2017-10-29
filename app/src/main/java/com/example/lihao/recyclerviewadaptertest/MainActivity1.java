@@ -19,7 +19,7 @@ import java.util.List;
 import butterknife.ButterKnife;
 import butterknife.InjectView;
 
-
+////该方法可以解决点击listview  item中某一个组件的问题
 public class MainActivity1 extends AppCompatActivity {
     private static final String TAG = "MainActivity";
 
